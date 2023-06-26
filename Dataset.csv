@@ -1,0 +1,119 @@
+#,Startup,Stage,Industry,Company HQ,Incorporated,Type of product,Founder name,Gender,Country based in,Age,Role in the startup
+1,Startup 1,Development stage,Tourism,Croatia,Yes,Hardware,Founder,Male,Croatia,28,Designer
+2,Startup 2,Pre-seed stage,Maritime,Croatia,Yes,Software & hardware,Founder,Male,Croatia,53,CEO
+3,Startup 3,Idea stage,Education,Canada,No,Service,Founder,Male,Canada,37,CEO
+4,Startup 4,Pre-seed stage,Biotech,Croatia,Yes,Service,Founder,Female,Croatia,43,CEO
+5,Startup 5,Development stage,Gaming,Croatia,No,Service,Founder,Male,Croatia,23,Developer
+6,Startup 6,Development stage,Other,Croatia,Yes,Software,Founder,Male,Croatia,39,CTO
+7,Startup 6,Development stage,Other,Croatia,Yes,Software,Founder,Male,Croatia,33,Business Developer
+8,Startup 6,Development stage,Other,Croatia,Yes,Software,Founder,Male,Croatia,42,CEO
+9,Startup 7,Series A stage,E-commerce,Croatia,Yes,Service,Founder,Male,Croatia,39,CEO
+10,Startup 8,Idea stage,Other,Hungary,Yes,Software,Founder,Female,Hungary,28,CEO
+11,Startup 9,Development stage,Other,Croatia,No,Software & hardware,Founder,Male,Croatia,39,CTO
+12,Startup 9,Development stage,Other,Croatia,No,Software & hardware,Founder,Male,Croatia,42,CEO
+13,Startup 10,Development stage,Other,Croatia,No,Software,Founder,Male,Croatia,39,CEO
+14,Startup 10,Development stage,Other,Croatia,No,Software,Founder,Male,Croatia,18,Developer
+15,Startup 11,Development stage,Other,Croatia,No,Software,Founder,Male,Croatia,39,CTO
+16,Startup 11,Development stage,Other,Croatia,No,Software,Founder,Male,Croatia,18,Designer
+17,Startup 11,Development stage,Other,Croatia,No,Software,Founder,Male,Croatia,18,Developer
+18,Startup 11,Development stage,Other,Croatia,No,Software,Founder,Male,Croatia,18,Designer
+19,Startup 12,Development stage,Social network,Croatia,No,Software,Founder,Male,Croatia,39,CTO
+20,Startup 12,Development stage,Social network,Croatia,No,Software,Founder,Male,Croatia,18,Developer
+21,Startup 12,Development stage,Social network,Croatia,No,Software,Founder,Male,Croatia,18,Designer
+22,Startup 12,Development stage,Social network,Croatia,No,Software,Founder,Male,Croatia,18,Designer
+23,Startup 13,Small Business,Education,Croatia,Yes,Software,Founder,Male,Croatia,39,CEO
+24,Startup 14,Development stage,Cybersecurity,Croatia,No,Software,Founder,Male,Croatia,39,CTO
+25,Startup 14,Development stage,Cybersecurity,Croatia,No,Software,Founder,Male,Croatia,42,CEO
+26,Startup 14,Development stage,Cybersecurity,Croatia,No,Software,Founder,Male,Croatia,19,Developer
+27,Startup 15,Development stage,Education,Hungary,Yes,Service,Founder,Male,Hungary,22,CMO
+28,Startup 16,Pre-seed stage,Tourism,Hungary,No,Software,Founder,Male,Hungary,39,CEO
+29,Startup 17,Seed stage,Other,Hungary,Yes,Hardware,Founder,Male,Hungary,52,CEO
+30,Startup 18,Small Business,E-commerce,Croatia,Yes,Service,Founder,Male,Croatia,26,CEO
+31,Startup 19,Development stage,Tourism,Spain,No,Service,Founder,Male,Spain,45,CTO
+32,Startup 20,Idea stage,Health,Spain,No,Service,Founder,Female,Spain,49,CEO
+33,Startup 21,Series A stage,Fintech,United States,Yes,Software,Founder,Male,Spain,26,Business Developer
+34,Startup 22,Seed stage,Maritime,Spain,Yes,Service,Founder,Male,Spain,42,CEO
+35,Startup 23,Development stage,Smart cities,Spain,No,Software,Founder,Male,Spain,28,CEO
+36,Startup 24,Development stage,Other,Spain,No,Service,Founder,Male,Spain,19,CEO
+37,Startup 25,Small Business,Biotech,Spain,Yes,Service,Founder,Male,Spain,27,CEO
+38,Startup 26,Pre-seed stage,Other,Spain,Yes,Software,Founder,Male,Spain,25,CEO
+39,Startup 27,Pre-seed stage,Retail,Spain,Yes,Software,Founder,Male,Spain,32,CEO
+40,Startup 28,Seed stage,E-commerce,Spain,Yes,Software,Founder,Male,Spain,50,CEO
+41,Startup 29,Development stage,Mobile,Spain,No,Software & hardware,Founder,Male,Spain,48,CEO
+42,Startup 30,Development stage,Fintech,France,Yes,Software,Founder,Female,France,24,CMO
+43,Startup 31,Small Business,Other,Spain,Yes,Service,Founder,Male,Spain,30,CEO
+44,Startup 32,Development stage,Health,Switzerland,No,Software,Founder,Male,Switzerland,34,CEO
+45,Startup 32,Development stage,Health,Switzerland,No,Software,Founder,Female,Russian Federation,29,CEO
+46,Startup 33,Small Business,Other,Italy,No,Software,Founder,Female,Ireland,22,COO
+47,Startup 34,Development stage,Retail,Croatia,Yes,Service,Founder,Male,Croatia,23,CEO
+48,Startup 35,Seed stage,Other,Spain,Yes,Service,Founder,Male,Spain,29,CEO
+49,Startup 36,Development stage,E-commerce,Spain,Yes,Service,Founder,,,,Designer
+50,Startup 37,Development stage,Gaming,Serbia,Yes,Service,Founder,Male,Serbia,29,CEO
+51,Startup 38,Development stage,Other,Malta,Yes,Software,Founder,Male,Malta,32,CEO
+52,Startup 39,Pre-seed stage,Mobile,Croatia,Yes,Software,Founder,Male,Croatia,28,CEO
+53,Startup 40,Development stage,Big Data,Spain,Yes,Software,Founder,Male,Spain,46,CEO
+54,Startup 41,Seed stage,E-commerce,Spain,Yes,Software,Founder,Female,Spain,40,CMO
+55,Startup 42,Small Business,Space,Spain,Yes,Software & hardware,Founder,Male,Spain,33,Business Developer
+56,Startup 43,Development stage,E-sports,Hungary,No,Software,Founder,Male,Hungary,27,1
+57,Startup 43,Development stage,E-sports,Hungary,No,Software,Founder,Male,Hungary,24,CTO
+58,Startup 44,Development stage,Other,Estonia,Yes,Software,Founder,Male,Estonia,34,CEO
+59,Startup 44,Development stage,Other,Estonia,Yes,Software,Founder,Female,Estonia,30,CTO
+60,Startup 45,Development stage,Food & beverages,Hungary,Yes,Software,Founder,Male,Hungary,25,CEO
+61,Startup 46,Development stage,Health,Hungary,No,Service,Founder,Male,Hungary,24,CEO
+62,Startup 47,Development stage,Other,Hungary,No,Software,Founder,Female,Hungary,25,CEO
+63,Startup 48,Development stage,Maritime,Hungary,Yes,Software,Founder,Male,Hungary,27,CEO
+64,Startup 49,Idea stage,Education,Hungary,No,Service,Founder,Female,Hungary,47,HR
+65,Startup 50,Development stage,Education,Hungary,Yes,Software,Founder,Male,Hungary,30,Developer
+66,Startup 51,Idea stage,Other,Global,No,Software & hardware,Founder,,,,CEO
+67,Startup 52,Pre-seed stage,Health,Hungary,Yes,Hardware,Founder,Female,Hungary,32,COO
+68,Startup 53,Small Business,Digital media,Hungary,Yes,Service,Founder,,Hungary,,CEO
+69,Startup 54,Development stage,Tourism,Hungary,Yes,Software,Founder,Female,Hungary,30,CEO
+70,Startup 55,Small Business,IOT,Luxembourg,Yes,Service,Founder,Male,India,33,CEO
+71,Startup 56,Seed stage,Other,Luxembourg,Yes,Software,Founder,Male,Luxembourg,28,CEO
+72,Startup 57,Development stage,Digital media,Luxembourg,Yes,Service,Founder,Female,Luxembourg,38,CEO
+73,Startup 58,Development stage,Digital media,Cyprus,Yes,Service,Founder,Male,Cyprus,42,CEO
+74,Startup 59,Pre-seed stage,Food & beverages,Switzerland,Yes,Software & hardware,Founder,Male,Switzerland,45,CEO
+75,Startup 60,Pre-seed stage,E-commerce,Cyprus,Yes,Service,Founder,Male,Cyprus,53,CEO
+76,Startup 61,Seed stage,Other,Cyprus,Yes,Software,Founder,Male,Cyprus,31,CEO
+77,Startup 62,Pre-seed stage,Gaming,Cyprus,Yes,Software,Founder,Male,Cyprus,32,CEO
+78,Startup 63,Pre-seed stage,Social network,Cyprus,No,Service,Founder,Female,Cyprus,36,CEO
+79,Startup 63,Pre-seed stage,Social network,Cyprus,No,Service,Founder,Female,Cyprus,47,HR
+80,Startup 64,Idea stage,Health,Cyprus,Yes,Software,Founder,Female,Cyprus,44,CEO
+81,Startup 65,Development stage,Fintech,Mexico,Yes,Software,Founder,Female,United Kingdom,26,CEO
+82,Startup 66,Seed stage,Smart cities,Cyprus,Yes,Software,Founder,Male,Cyprus,30,COO
+83,Startup 67,Development stage,Other,Cyprus,No,Software,Founder,Male,Cyprus,54,CEO
+84,Startup 68,Pre-seed stage,Other,Germany,Yes,Software,Founder,Male,Cyprus,30,CTO
+85,Startup 69,Development stage,Advertising,Cyprus,Yes,Software,Founder,Male,Cyprus,62,CEO
+86,Startup 70,Development stage,Tourism,United States,No,Service,Founder,Female,United States,36,CEO
+87,Startup 71,Development stage,Other,United Kingdom,No,Software,Founder,Female,United Kingdom,40,CEO
+88,Startup 72,Pre-seed stage,Other,Spain,Yes,Service,Founder,Female,Spain,32,CEO
+89,Startup 73,Seed stage,Food & beverages,Cyprus,Yes,Software & hardware,Founder,Male,Cyprus,22,CEO
+90,Startup 74,Pre-seed stage,Cybersecurity,Cyprus,No,Software,Founder,Male,Cyprus,48,Business Developer
+91,Startup 75,Development stage,ICT/Telecommunications,Cyprus,No,Service,Founder,Male,Cyprus,37,CEO
+92,Startup 76,Seed stage,Fintech,Cyprus,No,Service,Founder,Male,Cyprus,56,CEO
+93,Startup 77,Idea stage,Social network,Serbia,No,Software,Founder,Male,Serbia,37,CEO
+94,Startup 78,Seed stage,Agriculture,Spain,Yes,Software,Founder,Male,Spain,25,CFO
+95,Startup 79,Development stage,Other,Cyprus,No,Software,Founder,Male,Cyprus,24,CEO
+96,Startup 80,Development stage,Energy,Cyprus,Yes,Software,Founder,Male,Cyprus,30,CEO
+97,Startup 81,Development stage,Other,Cyprus,No,Software,Founder,Female,Cyprus,33,COO
+98,Startup 82,Small Business,E-commerce,Cyprus,No,Service,Founder,Male,Cyprus,50,CEO
+99,Startup 83,Idea stage,Retail,Spain,No,Service,Founder,Female,Spain,36,CEO
+100,Startup 84,Development stage,E-commerce,Cyprus,Yes,Software,Founder,Female,Cyprus,32,CEO
+101,Startup 85,Seed stage,Fintech,Spain,Yes,Software,Founder,Female,Spain,49,CEO
+102,Startup 86,Development stage,Transportation,Cyprus,Yes,Hardware,Founder,Male,Cyprus,34,CEO
+103,Startup 87,Seed stage,Health,Cyprus,Yes,Software,Founder,Male,Cyprus,37,CEO
+104,Startup 87,Seed stage,Health,Cyprus,Yes,Software,Founder,Male,Greece,39,CTO
+105,Startup 88,Development stage,Other,Cyprus,Yes,Software,Founder,Male,Cyprus,31,CEO
+106,Startup 89,Development stage,Defence & security,United Kingdom,Yes,Software & hardware,Founder,,United Kingdom,38,CEO
+107,Startup 90,Small Business,Entertainment,Spain,Yes,Hardware,Founder,Male,Spain,44,COO
+108,Startup 91,Idea stage,Entertainment,Cyprus,No,Software,Founder,Male,Cyprus,29,Business Developer
+109,Startup 92,Pre-seed stage,ICT/Telecommunications,Cyprus,Yes,Software,Founder,Female,Cyprus,42,CEO
+110,Startup 93,Idea stage,E-commerce,Spain,Yes,Service,Founder,Female,Spain,42,CEO
+111,Startup 94,Idea stage,Social network,Cyprus,No,Service,Founder,Female,Cyprus,58,CEO
+112,Startup 95,Seed stage,Gaming,Cyprus,Yes,Software,Founder,Male,Cyprus,39,CEO
+113,Startup 96,Idea stage,Social enterpise,Cyprus,No,Software,Founder,,Cyprus,,CEO
+114,Startup 97,Development stage,Energy,Cyprus,No,Software & hardware,Founder,Female,Cyprus,34,CTO
+115,Startup 98,Seed stage,E-commerce,Germany,Yes,Hardware,Founder,Female,Cyprus,38,CEO
+116,Startup 99,Idea stage,Other,Cyprus,No,Service,Founder,,Cyprus,,CEO
+117,Startup 100,Small Business,Fintech,United Kingdom,Yes,Service,Founder,Male,Cyprus,46,Business Developer
+118,Startup 101,Pre-seed stage,Big Data,Cyprus,Yes,Service,Founder,Female,Cyprus,47,CEO
